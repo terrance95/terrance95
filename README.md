@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **terrance95/terrance95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 ![T_Reynolds-Illustration](https://user-images.githubusercontent.com/42007623/124274309-11715600-db7c-11eb-9993-3c7cd77a867d.jpg)
+-->
+
+### About Me
+
+Hey there, I'm a Frontend Developer currently living in Tokyo, Japan. I have a strong background in design and received a Bachelor's of Specialized Studies with a focus on Interactive Media and Marketing. I'm a self-taught developer skilled in HTML, CSS, JavaScript, TypeScript, React, and Express. I spend my free time reading, writing, and podcasting.
+
+#### There's More
+- [Personal Website](https://terrance.jp/) 
+- [LinkedIn](https://www.linkedin.com/in/terrancereynolds/)
+
